@@ -128,3 +128,34 @@
 - Describes data or system behavior.
 - Often has learning and adaptation capabilities.
 - Used for predictions, classifications, pattern recognition (e.g., linear regression, neural networks, decision trees).
+
+
+
+### 3.Studying Plans for this curriculum
+
+___
+
+#### Three main parts:
+
+- **I. Programming Skill**
+
+- - Weeks 1-5: Linux
+  - Weeks 6-16: R
+  - *Weeks 11-16: Python (optional)*
+
+- **II. NGS Data Analysis** 
+
+- - Weeks 5-11
+
+- **III. Machine Learning**
+
+- - Weeks 12-16: basics and models
+
+
+
+#### Some tips:
+
+1. Take good use of [course materials](https://book.ncrnalab.org/teaching/)
+2. Check [syllabus]([[[2\]]《生物信息学实践》 教案 - 2023秋 [清华大学] (yinxiang.com)](https://app.yinxiang.com/fx/b46306ff-4e70-456b-9185-e0afb3e55bd4)) frequently to keep abreast of teaching progress
+
+3. Utilize [cloud resources]([清华大学云盘 (tsinghua.edu.cn)](https://cloud.tsinghua.edu.cn/d/dcbb0944631a4291b34c/)) to organize course notes
