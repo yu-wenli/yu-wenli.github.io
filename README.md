@@ -20,7 +20,7 @@
 
 ​	**Amoeba**, 670 Gpb
 
-<img src="C:\Users\yuwenli\AppData\Roaming\Typora\typora-user-images\image-20230925214853740.png" alt="image-20230925214853740" style="zoom:50%;" />
+<img src="img/image-20230926000504181.png" alt="genome size" style="zoom:50%;" />
 
 
 
@@ -159,3 +159,4 @@ ___
 2. Check [syllabus]([[[2\]]《生物信息学实践》 教案 - 2023秋 [清华大学] (yinxiang.com)](https://app.yinxiang.com/fx/b46306ff-4e70-456b-9185-e0afb3e55bd4)) frequently to keep abreast of teaching progress
 
 3. Utilize [cloud resources]([清华大学云盘 (tsinghua.edu.cn)](https://cloud.tsinghua.edu.cn/d/dcbb0944631a4291b34c/)) to organize course notes
+
