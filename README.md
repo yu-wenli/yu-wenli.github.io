@@ -16,11 +16,15 @@
 
 
 
+
+
 #### 1.2 Which organism has the ==largest== genome? 
 
 ​	**Amoeba**, 670 Gpb
 
 <img src="img/image-20230926000504181.png" alt="genome size" style="zoom:50%;" />
+
+
 
 
 
@@ -30,7 +34,7 @@
 
 ​		Because we have only considered the coding portion, in fact, ==the vast majority of the content in the genome is non-coding.==
 
-<img src="C:\Users\yuwenli\AppData\Roaming\Typora\typora-user-images\image-20230925211721210.png" alt="image-20230925211721210" style="zoom: 67%;" />
+<img src="img/1.png" alt="image-20230925211721210" style="zoom: 50%;" />
 
 
 
@@ -66,7 +70,9 @@
 
 **How to make the content of bioinformatics analysis more **==**comprehensive**==?  \==> **Big and HD (High\-dimensional) data**
 
-<img src="C:\Users\yuwenli\AppData\Roaming\Typora\typora-user-images\image-20230925215710242.png" alt="image-20230925215710242" style="zoom:50%;" />
+<img src="img/5.png" alt="image-20230925215710242" style="zoom:50%;" />
+
+
 
 #### 2.2 Three steps of Bioinformatics
 
@@ -82,7 +88,11 @@
 
    - etc.
 
-     <img src="C:\Users\yuwenli\AppData\Roaming\Typora\typora-user-images\image-20230925213602135.png" alt="image-20230925213602135" style="zoom:50%;" />
+     <img src="img/2.png" alt="image-20230925213602135" style="zoom:50%;" />
+     
+     
+     
+     
 
 2. **Model** (a mathematical or statistical representation used to describe or predict real-world phenomena.)
 
@@ -96,8 +106,10 @@
 
    - etc.
 
-     <img src="C:\Users\yuwenli\AppData\Roaming\Typora\typora-user-images\image-20230925213632259.png" alt="image-20230925213632259" style="zoom:50%;" />
+     
 
+     <img src="img/3.png" alt="image-20230925213632259" style="zoom:50%;" />
+     
      
 
 3. **Algorithm** (a step-by-step set of instructions or a defined process for solving a specific computational problem.)
@@ -109,7 +121,9 @@
    - Insertion Sort
    - etc.
 
-   <img src="C:\Users\yuwenli\AppData\Roaming\Typora\typora-user-images\image-20230925213703294.png" alt="image-20230925213703294" style="zoom:50%;" />
+   <img src="img/4.png" alt="image-20230925213703294" style="zoom:50%;" />
+
+
 
 
 
